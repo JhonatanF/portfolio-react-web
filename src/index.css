@@ -1,0 +1,29 @@
+body {
+    font-family: 'Roboto', sans-serif; /* Clean, modern font */
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8; /* Very light background */
+    color: #333; /* Dark gray for main text */
+    line-height: 1.6;
+  }
+  
+  h1, h2, h3 {
+    color: #003366; /* Dark blue for headings */
+    font-weight: 600;
+  }
+  
+  a {
+    color: #FFCC66; /* Gold for links */
+    text-decoration: none;
+    transition: color 0.2s ease; /* Smooth color transition on hover */
+  }
+  
+  a:hover {
+    color: #6699CC; /* Lighter blue on hover */
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+  }

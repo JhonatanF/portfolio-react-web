@@ -1,0 +1,31 @@
+.contact-section {
+    padding: 40px 0;
+    background-color: #dfdfdf;
+  }
+  
+  .contact-section h2 {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .contact-section p {
+    text-align: center;
+    margin-bottom: 15px;
+  }
+  
+  .contact-section ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+  }
+  
+  .contact-section li {
+    display: inline-block;
+    margin: 10px;
+  }
+  
+  .contact-section a {
+    color: #a57006;
+    font-weight: 500;
+  }

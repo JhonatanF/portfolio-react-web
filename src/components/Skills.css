@@ -1,0 +1,27 @@
+.skills-section {
+    padding: 40px 0;
+    background-color: #f8f8f8;
+  }
+  
+  .skills-section h2 {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .skills-section ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .skills-section li {
+    background-color: #003366; /* Dark blue background */
+    color: #fff; /* White text */
+    padding: 8px 15px;
+    margin: 5px;
+    border-radius: 4px;
+    font-size: 0.9rem;
+  }

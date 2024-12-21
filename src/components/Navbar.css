@@ -1,0 +1,31 @@
+.navbar {
+    background-color: #003366; /* Dark blue background */
+    color: #fff;
+    padding: 1rem 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+  }
+  
+  .navbar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .navbar li {
+    margin: 0 1.5rem;
+  }
+  
+  .navbar a {
+    color: #fff;
+    font-weight: 500;
+    padding: 0.5rem;
+    border-radius: 4px;
+    transition: background-color 0.2s ease;
+  }
+  
+  .navbar a:hover {
+    background-color: #6699CC; /* Lighter blue on hover */
+    text-decoration: none;
+  }
